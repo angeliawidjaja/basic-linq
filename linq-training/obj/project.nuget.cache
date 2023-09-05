@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uOGYHUwKiZ7aCc0czcMAeQlP25XVNxL43TLdnmocnXdu/Lc8wPfjMr4fkP8y+BtEdfivKUsq5kOo6KQ7L4x6g==",
+  "success": true,
+  "projectFilePath": "E:\\Angelia\\linq-training\\linq-training\\linq-training.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angelia.am\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

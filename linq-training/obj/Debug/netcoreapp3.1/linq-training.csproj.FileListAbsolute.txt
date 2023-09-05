@@ -1,0 +1,11 @@
+C:\Users\angelia.am\source\repos\linq-training\linq-training\bin\Debug\netcoreapp3.1\linq-training.exe
+C:\Users\angelia.am\source\repos\linq-training\linq-training\bin\Debug\netcoreapp3.1\linq-training.deps.json
+C:\Users\angelia.am\source\repos\linq-training\linq-training\bin\Debug\netcoreapp3.1\linq-training.runtimeconfig.json
+C:\Users\angelia.am\source\repos\linq-training\linq-training\bin\Debug\netcoreapp3.1\linq-training.runtimeconfig.dev.json
+C:\Users\angelia.am\source\repos\linq-training\linq-training\bin\Debug\netcoreapp3.1\linq-training.dll
+C:\Users\angelia.am\source\repos\linq-training\linq-training\bin\Debug\netcoreapp3.1\linq-training.pdb
+C:\Users\angelia.am\source\repos\linq-training\linq-training\obj\Debug\netcoreapp3.1\linq-training.csprojAssemblyReference.cache
+C:\Users\angelia.am\source\repos\linq-training\linq-training\obj\Debug\netcoreapp3.1\linq-training.AssemblyInfoInputs.cache
+C:\Users\angelia.am\source\repos\linq-training\linq-training\obj\Debug\netcoreapp3.1\linq-training.AssemblyInfo.cs
+C:\Users\angelia.am\source\repos\linq-training\linq-training\obj\Debug\netcoreapp3.1\linq-training.dll
+C:\Users\angelia.am\source\repos\linq-training\linq-training\obj\Debug\netcoreapp3.1\linq-training.pdb
